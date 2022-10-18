@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "name": "Project 1",
+      "description": "Test1",
+      "image": "https://cdn.pixabay.com/photo/2022/08/31/10/20/buttercup-7422987_960_720.jpg",
+      "imageAlt": ""
+    },
+    {
+      "name": "mans",
+      "description": "aaaaa",
+      "image": "https://cdn.pixabay.com/photo/2022/08/31/10/20/buttercup-7422987_960_720.jpg",
+      "imageAlt": ""
+    }
+  ]
+}
